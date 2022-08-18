@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante a Maratona Explorer 3 da Rocketseat
 
-Desenvolvemos um cardápio digital com acessoatravés do QRCode.
+Desenvolvemos um cardápio digital com acesso através do QRCode.
 
 ## Techs used
 
