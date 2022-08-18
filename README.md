@@ -11,4 +11,4 @@ Desenvolvemos um cardápio digital com acessoatravés do QRCode.
 - Netlify
 
 ## QRCode
-![](https://github.com/marciopsj/maratona-explorer-3/blob/main/qrcode.png)
+<img src="https://github.com/marciopsj/maratona-explorer-3/blob/main/qrcode.png" width="250" />
